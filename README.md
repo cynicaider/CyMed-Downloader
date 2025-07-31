@@ -23,7 +23,7 @@ Powered by [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), it allows you to downlo
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## ⚖️ Legal Notice / Disclaimer
 
 This project is intended **for educational and personal use only**.  
