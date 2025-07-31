@@ -1,0 +1,8 @@
+
+---
+
+## 📦 `requirements.txt`
+
+```txt
+yt-dlp>=2023.7.6
+tkinter
